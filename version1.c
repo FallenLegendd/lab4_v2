@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <ctime>
 #include "Coordinates.h"
-
+#include "Object.h"
 
 
 using namespace std;

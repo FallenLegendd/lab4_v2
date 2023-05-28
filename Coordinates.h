@@ -1,6 +1,10 @@
 #pragma once
 
-
+#include <iostream>
+#include <vector>
+#include <cmath>
+#include <stdlib.h>
+#include <ctime>
 
 
 class Coordinates {
